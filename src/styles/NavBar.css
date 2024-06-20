@@ -1,0 +1,12 @@
+.custom-navbar{
+    /* background-color: var(--main-theme-color) !important; */
+    background-color: var(--main-theme-color) !important;
+   color: #909090;
+}
+.nav-item .nav-link{
+    color: #909090;
+    
+}
+.nav-item .nav-link:hover{
+    color: #909090;
+}

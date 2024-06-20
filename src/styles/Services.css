@@ -1,0 +1,28 @@
+.Services{
+    padding: 20px;
+    color: #777;
+}
+.services-header{
+    max-width: 420px;
+    margin: auto;
+    text-align: center;
+
+}
+.services-header p:first-of-type{
+    font-size: 48px;
+    color: #fff;
+}
+.Services-List{
+    margin-top: 20px;
+    border-radius: 12px;
+}
+.Services-List .service{
+    background-color: #1e201d;
+    padding: 10px;
+    margin-bottom: 20px;
+    height: 175px;
+    border-radius: 12px;
+}
+.Services-List .service .icon{
+    color: var(--green-color);
+}

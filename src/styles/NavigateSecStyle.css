@@ -1,0 +1,20 @@
+.NavigatorSec{
+    background-color: var(--green-color);
+    padding: 50px 0;
+}
+.NavigatorSec .details{
+    max-width: 456px;
+    margin-top: 80px;
+}
+.NavigatorSec .details p:first-of-type{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 57.28px;
+}
+.NavigatorSec .details p:nth-child(2){
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+
+
+}

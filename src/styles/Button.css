@@ -1,0 +1,20 @@
+.primary{
+    width: 175px;
+    border-radius: 12px;
+    padding: 12px 32px;
+    background-color: #6de754;
+    font-weight: 700;
+}
+.secondary{
+    background-color: transparent;
+    border: 1px solid #6de754;
+    border-radius: 12px;
+    padding: 12px 32px;
+}
+.secondary.dark{
+    color: #fff;
+}
+.secondary.light{
+    color: #000;
+    border: 1px solid #000;
+}

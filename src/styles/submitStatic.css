@@ -1,0 +1,61 @@
+.submitStatic{
+    background-color: #6de754;
+    max-width: calc(100% - 60px);
+    border-radius: 12px;
+    margin: 0 auto;
+    padding: 10px;
+    text-align: center;
+    position: relative;
+}
+
+.submitStatic .submitHeader .title{
+    font-size: 48px;
+    max-width: 420px;
+    margin : auto;
+}
+.submitStatic .submitHeader h1{
+    font-size: 152px;
+    
+}
+.submitStatic .submitHeader .small-details{
+    max-width: 474px;
+    margin: 12px auto;
+}
+.submitStatic .real-img{
+    max-width: calc(100% - 200px);
+    left: 50%;
+   margin-bottom: -10px;
+
+}
+.submitStatic .overlay-img{
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    max-width: calc(100% - 212px);
+    transform: translate(-50%);
+    mix-blend-mode :overlay
+
+}
+
+@media screen and (max-width:767px) {
+    .submitStatic .submitHeader h1{
+        font-size: 100px;
+        
+    }
+    .submitStatic .submitHeader .title{
+        font-size: 30px;
+    }
+    
+    
+}
+@media screen and (min-width : 768px) and (max-width:970px) {
+    .submitStatic .details h1{
+        font-size: 120px;
+        
+    }
+    .submitStatic .details .title{
+        font-size: 40px;
+    }
+    
+    
+}

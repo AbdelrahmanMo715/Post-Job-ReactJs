@@ -1,0 +1,20 @@
+ .details{
+    max-width: 456px;
+    margin-top: 80px;
+}
+.dark p:first-of-type , .light p:first-of-type{
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 57.28px;
+} 
+.dark p:first-of-type{
+    color: #fff;
+}
+ .light p:nth-child(2) , .dark p:nth-child(2){
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 22px;
+ }
+ .dark p:nth-child(2){
+    color: #777;
+ }

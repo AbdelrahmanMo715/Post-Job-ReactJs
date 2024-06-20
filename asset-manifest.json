@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Post-Job-ReactJs/static/css/main.92bf6e0a.css",
+    "main.js": "/Post-Job-ReactJs/static/js/main.f5e7e2dd.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Post-Job-ReactJs/static/js/787.28cb0dcd.chunk.js",
+    "static/media/image-app.png": "/Post-Job-ReactJs/static/media/image-app.406fd97c1578da8d3dbd.png",
+    "static/media/Overlay.png": "/Post-Job-ReactJs/static/media/Overlay.a847537646f8ec225519.png",
+    "static/media/Illustration-2.png": "/Post-Job-ReactJs/static/media/Illustration-2.9cdb831127d2248fb900.png",
+    "static/media/Illustration.png": "/Post-Job-ReactJs/static/media/Illustration.6cdcebd416fa096234a5.png",
+    "static/media/Illustration-3.png": "/Post-Job-ReactJs/static/media/Illustration-3.b06b223493e825a922f3.png",
+    "index.html": "/Post-Job-ReactJs/index.html",
+    "main.92bf6e0a.css.map": "/Post-Job-ReactJs/static/css/main.92bf6e0a.css.map",
+    "main.f5e7e2dd.js.map": "/Post-Job-ReactJs/static/js/main.f5e7e2dd.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Post-Job-ReactJs/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.92bf6e0a.css",
+    "static/js/main.f5e7e2dd.js"
+  ]
+}
